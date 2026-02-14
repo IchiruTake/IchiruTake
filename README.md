@@ -17,6 +17,14 @@ Welcome to my GitHub! I'm a passionate Software Engineer with a strong backgroun
 
 ---
 
+## 💻 Projects
+
+- 🌕 ArXivDownToUp: A small Python scripts ultilizes `requests` and `BeautifulSoup4` to automatically generating clean and meaningful filename from arXiv code, upgrade and cleanup legacy ArXiv PDF (1908.10000v1 to v5), batch-renames files or scans directories via a simple CLI -> URL: [URL]<script src="https://gist.github.com/IchiruTake/0e53a7227618be0a0ff2552e53afd17f.js"></script>
+
+
+
+---
+
 ## 💻 Technologies & Tools
 
 **Languages:**  
